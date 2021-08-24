@@ -4,7 +4,7 @@ using System.Text;
 
 namespace todozulu.common.Models
 {
-    public class todo
+    public class Todo
     {
 
         public DateTime CreatedTime { get; set; }
